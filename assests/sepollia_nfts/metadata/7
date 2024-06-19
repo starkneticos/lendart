@@ -1,0 +1,10 @@
+{
+    "name":"Wolf",
+    "description":"Animal",
+    "image":"https://ipfs.io/ipfs/QmW6ambB2xQZ6PCeU4nG7nCS4rDw4BuFoSSKBAKCYi5RXK",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Attack"},
+        {"trait_type":"Type", "value": "Snow"}
+    ]
+}

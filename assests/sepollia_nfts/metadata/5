@@ -1,0 +1,10 @@
+{
+    "name":"Messi",
+    "description":"La pulga",
+    "image":"https://ipfs.io/ipfs/QmQK1BuQ5AcXWwAunvWh6hi2DvbtzQQqzCfqocVHyMm1ry",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Attack"},
+        {"trait_type":"Type", "value": "Smart"}
+    ]
+}
