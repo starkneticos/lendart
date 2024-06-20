@@ -1,5 +1,5 @@
 mod YourContract;
-mod SepolliaNFT;
+mod SepoliaNFT;
 #[cfg(test)]
 mod test {
     mod TestContract;

@@ -2,7 +2,7 @@
 // Compatible with OpenZeppelin Contracts for Cairo ^0.13.0
 
 #[starknet::contract]
-mod SepolliaNFT {
+mod SepoliaNFT {
     use openzeppelin::access::ownable::OwnableComponent;
     use openzeppelin::introspection::src5::SRC5Component;
     use openzeppelin::token::erc721::ERC721Component;
@@ -52,7 +52,7 @@ mod SepolliaNFT {
 
     #[constructor]
     fn constructor(ref self: ContractState, owner: ContractAddress) {
-        self.erc721.initializer("SepolliaNFT", "SNFT", "https://ipfs.io/ipfs/QmYRSjVsppta8PhuqpsnTeb4qcWBgLCZYcsEgSBkPzsJGu/");
+        self.erc721.initializer("SepoliaNFT", "SNFT", "https://ipfs.io/ipfs/QmYRSjVsppta8PhuqpsnTeb4qcWBgLCZYcsEgSBkPzsJGu/");
         self.ownable.initializer(owner);
     }
 
