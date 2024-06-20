@@ -1,0 +1,10 @@
+{
+    "name":"Harry Potter",
+    "description":"Wizard",
+    "image":"https://ipfs.io/ipfs/QmVU3XENEv6vE6DdLzVCVoCNg3VZnUxZ2TwT8s7Qdx121P",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Defense"},
+        {"trait_type":"Type", "value": "Magic"}
+    ]
+}

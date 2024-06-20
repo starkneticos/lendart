@@ -1,0 +1,10 @@
+{
+    "name":"Sasuke-Naruto",
+    "description":"Ninjas",
+    "image":"https://ipfs.io/ipfs/QmcJV8AtbvfHfTjEW6kGPHWAnn7f96eQehnD7HNemuGKPU",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Attack"},
+        {"trait_type":"Type", "value": "Air-Fire"}
+    ]
+}

@@ -1,0 +1,10 @@
+{
+    "name":"Naruto",
+    "description":"Ninja",
+    "image":"https://ipfs.io/ipfs/QmNV5LRoSiSfDEZs9Lkp6KUYpFimPWLwMz3oUE5yLGJtSh",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Attack"},
+        {"trait_type":"Type", "value": "Air"}
+    ]
+}

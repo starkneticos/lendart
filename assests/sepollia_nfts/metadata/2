@@ -1,0 +1,10 @@
+{
+    "name":"Charizard",
+    "description":"Fire Pokemon",
+    "image":"https://ipfs.io/ipfs/QmbtGVwqBMZTsXMUx8wtyRFVuVtSjxzs1CRqhb49ct9LcD",
+    "attributes":[
+        {"trait_type":"Power", "value": "Ultra"},
+        {"trait_type":"Mode", "value": "Attack"},
+        {"trait_type":"Type", "value": "Fire"}
+    ]
+}
