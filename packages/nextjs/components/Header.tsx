@@ -22,7 +22,7 @@ export const menuLinks: HeaderMenuLink[] = [
   },
   {
     label: "How it works",
-    href: "/",
+    href: "/howItWorks",
   },
   {
     label: "Get a loan",
